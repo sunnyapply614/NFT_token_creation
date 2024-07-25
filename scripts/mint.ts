@@ -10,17 +10,6 @@ const TO_ADDRESS = "0x..."; // localhost
 const POSTAGE_BATCH_ID =
    "..."; //no 0x prefix required
 const TOKEN_ID = 0;
-//end dev constants
-
-//prod constants, comment out for dev
-// const BEE_URI = "http://localhost:1633";
-// const GATEWAY_ADDRESS = "https://api.gateway.ethswarm.org";
-// const TOKEN_ADDRESS = "0x..."; 
-// const TO_ADDRESS = "0x...";
-// const TOKEN_ID = 0;
-// const POSTAGE_BATCH_ID =
-//   "..."; //no 0x prefix required
-//end prod] constants
 
 const FILE_NAME = "bee.png";
 const TOKEN_IMAGE_PATH = "./resources/" + FILE_NAME;
